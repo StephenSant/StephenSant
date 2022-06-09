@@ -1,0 +1,5 @@
+- 👋 Hi, I’m stephen sant.
+- 👀 I’m interested in software and game development.
+- 📫 You can reach me through:
+  - LinkIn: /stephensant
+  - Email: stephen.sant123@gmail.com
